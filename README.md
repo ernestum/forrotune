@@ -1,4 +1,4 @@
-=== Installation Instructions ===
+# Installation Instructions
 
 Download this repository with either:
 ```sh
@@ -12,7 +12,7 @@ then change into the directory (`cd forrotune`).
 
 Call `make install` with sudo rights.
 
-=== Usage ===
+# Usage
 ```sh
 $ forrotune
 ```
