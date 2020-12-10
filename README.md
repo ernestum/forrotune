@@ -2,11 +2,11 @@
 
 Download this repository with either:
 ```sh
-wget https://github.com/erniejunior/forrotune/archive/master.zip
+wget https://github.com/ernestum/forrotune/archive/master.zip
 ```
 or 
 ```sh
-git clone git@github.com:erniejunior/forrotune.git
+git clone https://github.com/ernestum/forrotune.git
 ```
 then change into the directory (`cd forrotune`).
 
